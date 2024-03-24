@@ -1,5 +1,6 @@
 # Zelda Music
 A Minecraft Resource pack that changes in-game music and sound effects to Zelda music and sound effects.
+![Zelda Music Background Image](https://cdn.modrinth.com/data/DcsK3tbq/images/a4066ddbf495faebf4564bb825c9724135bacf71.jpeg)
 
 # Support the pack!
 [Support me on Ko-Fi](https://ko-fi.com/wildfyr16) if you love this pack!
