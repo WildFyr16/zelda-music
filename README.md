@@ -3,7 +3,7 @@ A Minecraft Resource pack that changes in-game music and sound effects to Zelda 
 ![Zelda Music Background Image](https://cdn.modrinth.com/data/DcsK3tbq/images/a4066ddbf495faebf4564bb825c9724135bacf71.jpeg)
 
 # Support the pack!
-[Support me on Ko-Fi](https://ko-fi.com/wildfyr16) if you love this pack!
+[Support me on Ko-Fi](https://ko-fi.com/wildfyr16) if you love this pack! I do all this on my own time and any support is super appreciated.
 
 # About
 I created this pack for all the Zelda lovers out there who find themselve turning the base Minecraft music down everytime they start a world.
