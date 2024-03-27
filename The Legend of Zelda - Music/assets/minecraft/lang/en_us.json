@@ -34,5 +34,14 @@
   "item.minecraft.music_disc_5.desc": "Ocarina of Time - Forest Temple",
   "item.minecraft.disc_fragment_5.desc": "Ocarina of Time - Forest Temple",
   "item.minecraft.music_disc_otherside": "Midnas Lament",
-  "item.minecraft.music_disc_otherside.desc": "Twilight Princess - Midnas Lament"
+  "item.minecraft.music_disc_otherside.desc": "Twilight Princess - Midnas Lament",
+  "instrument.minecraft.admire_goat_horn": "Song of Storms",
+  "instrument.minecraft.call_goat_horn": "Oarth to Order",
+  "instrument.minecraft.dream_goat_horn": "Saria's Song",
+  "instrument.minecraft.feel_goat_horn": "Song of Soaring",
+  "instrument.minecraft.ponder_goat_horn": "Zelda's Lullaby",
+  "instrument.minecraft.seek_goat_horn": "Song of Healing",
+  "instrument.minecraft.sing_goat_horn": "Song of Time",
+  "instrument.minecraft.yearn_goat_horn": "Epona's Song",
+  "item.minecraft.goat_horn": "Ocarina of Time"
 }
