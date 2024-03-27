@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "current": {
-    "version_number": "1.20.4-3" // version of the current pack
+    "version_number": "1.20.4-4" // version of the current pack
   },
   "remote": {
     "game_version": "1.20.4", // game version. support "current" and "no_specify" enum value
