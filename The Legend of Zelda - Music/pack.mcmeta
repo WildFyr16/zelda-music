@@ -1,6 +1,10 @@
 {
     "pack": {
-        "description": "§6Zelda Music by WildFyr\n§5 v1.20.5-1",
-        "pack_format": 32
+        "description": "§6Zelda Music by WildFyr\n§5 v1.21.5-1",
+        "pack_format": 18,
+        "supported_formats": {
+            "min_inclusive": 18,
+            "max_inclusive": 59
+        }
     }
 }

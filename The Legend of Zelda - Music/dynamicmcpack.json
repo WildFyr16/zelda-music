@@ -1,10 +1,10 @@
 {
   "formatVersion": 1,
   "current": {
-    "version_number": "1.20.5-5"
+    "version_number": "1.21.5-1"
   },
   "remote": {
-    "game_version": "1.20.5",
+    "game_version": "1.21.5",
     "modrinth_project_id": "zelda-music",
     "type": "modrinth"
   }
